@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.head{
+    
+    animation-name: myanime;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+@keyframes myanime {
+    0%{
+        filter: drop-shadow(0 0 0.75rem rgba(56, 187, 220, 1));
+    }
+    50%{
+        scale: 1.2;
+        filter: drop-shadow(0 0 0.75rem rgba(83, 195, 224, 0));
+        text-shadow: 2px 2px 2px #2F5F87;
+        color: #a1d8ed;
+    }
+    100%{
+        filter: drop-shadow(0 0 0.75rem rgba(56, 187, 220, 1));
+    }
+}
+
+div{
+  display:flex;
+  align-items: center;
+  justify-content:center;
+  font-size: 2em;
+  color:#fff;
+  text-shadow: 2px 2px 2px #000;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.bg-1{
+  background-image: url("images/my-adv.jpg");
+  width:100%;
+  height:100vh;
+}
+.bg-2{
+  background-image: url("images/mauntain-ride2.jpg");
+  width:100%;
+  height:80vh;
+}
+.bg-3{
+  background-image: url("images/overseas-adventure.jpg");
+  width:100%;
+  height:80vh;
+}
+.bg-4{
+  background-image: url("images/underwater-adv.jpg");
+  width:100%;
+  height:80vh;
+}
+.bg-5{
+    background-image: url("images/desert.webp");
+    width:100%;
+    height:80vh;
+}
+.bg-6{
+    background-image: url("images/adv-park.jpg");
+    width:100%;
+    height:80vh;
+}

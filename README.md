@@ -8,5 +8,7 @@
 - CSS
 - CSS Animations
 
-## Demo
-<video src="https://firebasestorage.googleapis.com/v0/b/github-resume-others.appspot.com/o/GitHub%2FAdventure-parallax.mp4?alt=media&token=3e3a6c45-0b0c-4540-ab37-43bc15372512" width="100%" controls muted autoplay >
+## Screenshots
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/github-resume-others.appspot.com/o/GitHub%2FAdvanture%20-%2001.png?alt=media&token=f1c51532-a9ca-4c56-8f9f-0ff405b20684)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/github-resume-others.appspot.com/o/GitHub%2FAdventure%20-%2002.png?alt=media&token=5b871697-deb1-4705-902a-694f4f04528f)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/github-resume-others.appspot.com/o/GitHub%2FAdventure%20-%2003.png?alt=media&token=a9e0c0a7-35cf-4b72-85d4-bf79d2e5e374)

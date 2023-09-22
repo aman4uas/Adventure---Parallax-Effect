@@ -1,6 +1,6 @@
 # Adventure - Parallax Effect
 
-## 🔗 Live Demo/Website Link
+## 🔗 Website Link
 [ Click Here ](https://aman4uas.github.io/Adventure-Parallax-Effect/)
 
 ## Technology Used
